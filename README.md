@@ -12,10 +12,10 @@ cargo のコマンド
 
 > プロジェクト作成
 >
-> > cargo new (project 名)
-> > cargo build(target/debug/フォルダにファイルが作成される)
-> > cargo run (ビルドと実行)
-> > cargo check
+> - cargo new (project 名)
+> - cargo build(target/debug/フォルダにファイルが作成される)
+> - cargo run (ビルドと実行)
+> - cargo check
 
 ## それぞれのプロジェクトについて
 
